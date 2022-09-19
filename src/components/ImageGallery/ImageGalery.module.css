@@ -1,0 +1,13 @@
+.content_wrap{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.img_list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
